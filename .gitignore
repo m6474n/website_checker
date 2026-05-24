@@ -1,0 +1,7 @@
+venv/
+.env
+credentials.json
+__pycache__/
+n8n-automations.json
+
+n8n-automations.json
